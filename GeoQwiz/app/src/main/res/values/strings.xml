@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="reset">Reset</string>
+    <string name="yes_0">Yes: 0</string>
+    <string name="no_counter">No: 0</string>
+    <string name="question">Question 1: Do you like pizza?</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+</resources>
