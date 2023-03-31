@@ -12,52 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8148074a-8388-46f9-a8ce-39190de15438" name="Changes" comment="Seekbar app">
-      <change afterPath="$PROJECT_DIR$/../GuestList/app/src/main/java/com/example/guestlist/GuestListViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuestList/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Resources/app/src/main/java/com/example/resources/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Resources/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Resources/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/androidTest/java/com/example/survey/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/java/com/example/survey/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/app/src/test/java/com/example/survey/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Survey/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeoQuiz/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeoQuiz/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeoQuiz/app/src/main/java/com/bignerdranch/android/geoquiz/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GeoQuiz/app/src/main/java/com/bignerdranch/android/geoquiz/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SageFarkle/app/build/intermediates/apk/debug/.app-debug.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SageFarkle/app/build/intermediates/dex/debug/mergeExtDexDebug/.classes.dex.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeekbarPlusSquare2/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Survey/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/java/com/example/survey/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/java/com/example/survey/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,9 +146,7 @@
       <option name="ACTIVITY_CLASS" value="com.example.landscapelayout.MainActivity" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="LandscapeLayout.app.main" />
@@ -241,9 +203,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>

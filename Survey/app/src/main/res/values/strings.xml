@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Survey</string>
-    <string name="results">Survey</string>
+    <string name="question">%1$s</string>
+    <string name="yes_count">Yes count: %1$d</string>
+    <string name="no_count">No count: %1$d</string>
+    <string name="start_yes_count">Yes count:</string>
+    <string name="start_no_count">No count:</string>
+    <string name="total_asked_text">Total asked: %1$d</string>
 </resources>
