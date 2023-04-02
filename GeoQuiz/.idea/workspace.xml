@@ -10,23 +10,374 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e17c1461-cd90-4eae-a61d-ad1b806d21ba" name="Changes" comment="Android labs">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/androidTest/java/com/example/geocoding/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/java/com/example/geocoding/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/app/src/test/java/com/example/geocoding/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoCoding copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/androidTest/java/com/bignerdranch/android/geoquiz/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/java/com/bignerdranch/android/geoquiz/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/app/src/test/java/com/bignerdranch/android/geoquiz/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GeoQuiz copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/androidTest/java/com/example/guestlist/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/java/com/example/guestlist/GuestListViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/java/com/example/guestlist/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/app/src/test/java/com/example/guestlist/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/GuestList copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/androidTest/java/com/example/lmgtfy/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/java/com/example/lmgtfy/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/app/src/test/java/com/example/lmgtfy/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LMGTFY copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/androidTest/java/com/example/landscapelayout/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/java/com/example/landscapelayout/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/app/src/test/java/com/example/landscapelayout/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/LandscapeLayout copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/SeekbarPlusSquare copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/SeekbarPlusSquare copy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/androidTest/java/com/example/survey/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/java/com/example/survey/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/app/src/test/java/com/example/survey/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/Survey copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/androidTest/java/com/example/tsaapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/java/com/example/tsaapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/drawable/left_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/drawable/right_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/app/src/test/java/com/example/tsaapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/left_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/right_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/TSAApplication copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/androidTest/java/com/example/whogoesfirst/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/java/com/example/whogoesfirst/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/app/src/test/java/com/example/whogoesfirst/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android Projects/WhoGoesFirst copy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/geoquiz/Question.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Survey/.idea/render.experimental.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/geoquiz/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/geoquiz/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/java/com/example/survey/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/java/com/example/survey/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Survey/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Survey/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Android Lab 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Android Lab 3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeekbarPlusSquare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeekbarPlusSquare/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/zachariasalad/.android/avd/Pixel_2_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -45,6 +396,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.MainActivity">
     <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
@@ -187,7 +543,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680121142986</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Android labs">
+      <created>1680250923388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250923388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Android labs">
+      <created>1680251243923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251243923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
